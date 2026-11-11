@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "lib": ["ES2023"],
+    "types": ["node"],
+    "module": "preserve",
+    "moduleResolution": "bundler",
+    "noEmit": true
+  },
+  "files": ["plugins/with-gradle-properties.ts"]
+}
